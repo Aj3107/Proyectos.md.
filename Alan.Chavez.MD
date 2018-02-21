@@ -1,3 +1,6 @@
+Nombre del proyecto: Lista de cotejo 
+Fecha de hoy: 21 de Febrero del 2018
+Encargado por: Alan Chavez
 | Celular | Descripcion  | Cliente | Fecha |
 |------------------|------------------------------|---------------|----------|
 | Iphone 6 | Reparacion de pantalla | Edwin Guzman | 14/02/18 |
